@@ -1,0 +1,48 @@
+@import '../../vars.css';
+
+.hero{
+    width: 100%;
+    height:auto;
+    padding: 50px;
+}
+
+.Foto {
+    display: flexbox;
+    justify-content: center;
+    margin: 80px;
+    border-radius: 100%;
+}
+
+.description{
+    display: flex;
+    flex-direction: column;
+    float:right;
+    margin: 80px;
+}
+.judul{
+    font-size: 60px;
+    color: var(--color-light);
+    text-align: center;
+}
+.stat {
+    color: var(--color-light);
+    text-align: center;
+}
+.intro {
+    color: var(--color-white);
+    text-align : center;
+    margin : 30px;
+}
+
+.startbutton {
+    text-align: center;
+    justify-items: center;
+    font-weight: bolder;
+    background-color: var(--color-primary);
+    width: 400px;
+    padding: 20px;
+    margin: 50px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: var(--color-dark);
+}

@@ -1,0 +1,53 @@
+/* @import '../../vars.css';
+
+.skill{
+    padding: 50px;
+    width: 100%;
+    height:auto;
+    background-color: var(--color-secondary);
+}
+
+.judul{
+    font-size: 60px;
+    color: var(--color-light);
+}
+.cardlist{
+    display: flex;
+}
+
+.card{
+    background-color: var(--color-primary);
+    margin: 50px;
+    width: 300px;
+    height: 400px;
+    border-radius: 30px;
+}
+
+.skillimage{
+    display: flexbox;
+    align-items: center;
+    margin: 50px;
+    width: 200px;
+    height: 200px;
+}
+.skillname{
+    text-align: center;
+    justify-content: center;
+    color: var(--color-dark);
+}
+.tombolmore{
+    background-color: var(--color-light);
+    text-align: center;
+    justify-items: center;
+    font-weight: bolder;
+    width: 200px;
+    padding: 10px 0px;
+    margin: 50px;
+    border-radius: 20px;
+    
+}
+
+.tombolmore a{
+    text-decoration: none;
+    color: var(--color-dark);
+} */

@@ -1,0 +1,20 @@
+@import '../../vars.css';
+
+.experience{
+    padding: 50px;
+    width: 100%;
+    height:auto;
+    background-color: var(--color-secondary);
+}
+
+.judul{
+    font-size: 60px;
+    color: var(--color-light);
+}
+
+.card{
+    width: 100%;
+    margin-top: 10px;
+    padding: 20px;
+    background-color: var(--color-dark);
+}
