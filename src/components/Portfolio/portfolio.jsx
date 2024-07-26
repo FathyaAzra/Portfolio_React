@@ -5,7 +5,7 @@ import styles from './Portfolio.module.css';
 export const Portfolio = () => {
     return (
         <div className={styles.skill} id='Portfolio'>
-            <h1 className={styles.judul}>Skill</h1>
+            <h1 className={styles.judul}>Portfolio</h1>
             <div className={styles.skillcontainer}>
                 <div className={styles.cardlist}>
                     <div className={styles.card}>

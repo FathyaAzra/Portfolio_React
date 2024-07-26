@@ -4,7 +4,7 @@ import styles from './Experience.module.css';
 
 export const Experience = () => {
     return (
-        <div className={styles.experience} id='Experience'>
+        <div className={styles.experience} id='Exp'>
             <h1 className={styles.judul}>Experience/Education</h1>
             <div className={styles.experiencecontainer}>
                 <div className={styles.cardlist}>
